@@ -1,0 +1,9 @@
+{
+  "name": "AIRWRITE AI",
+  "description": "Write in the air. Think with AI. Create without limits. An education-first, touchless AI whiteboard and productivity platform for students and educators.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
